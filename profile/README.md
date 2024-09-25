@@ -5,5 +5,5 @@
 --- 
 
 ##### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react)](https://skillicons.dev)
 
