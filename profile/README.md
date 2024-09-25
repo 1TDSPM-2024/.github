@@ -9,6 +9,7 @@
 <img src="../imgs/ale-pistola.png" alt="ale-pistola" width="200" height="150">
 
 </div>
+
 --- 
 
 ##### Linguagens
